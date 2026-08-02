@@ -2,6 +2,10 @@
 
 A browser-based Simon Game built using HTML, CSS, JavaScript, and jQuery.
 
+## 🌐 Live Demo
+
+[Play Simon Game](https://vinit-dahiya.github.io/simon-game/)
+
 ##Preview:
 <img width="1919" height="1079" alt="simon-game" src="https://github.com/user-attachments/assets/6cc35d47-3a49-4781-8bd7-8ee16222f092" />
 
