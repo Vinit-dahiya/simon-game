@@ -30,3 +30,6 @@ A browser-based Simon Game built using HTML, CSS, JavaScript, and jQuery.
 1. Clone the repository.
 2. Open `index.html` in your browser.
 3. Press any key to start playing.
+
+## Author 
+Vinit dahiya
